@@ -1,27 +1,23 @@
-# USER.md - User Model
+# USER.md — Contexto de Lorenzo
 
-Store stable user preferences and profile facts as directives that can guide future sessions.
+## Profile
 
-Use one directive per entry:
+<!-- observed: 2026-11-16 | status: active -->
 
-```md
-<!-- observed: YYYY-MM-DD | status: active -->
+- Ten presente que el usuario se llama Lorenzo.
+- Ten presente que Lorenzo es especialista en Operaciones y diseño de producto, con 25 años de experiencia en el sector.
 
-- Prefer concise progress updates during implementation work.
-```
+## Current Projects & Goals
 
-- Begin each directive with an imperative such as `Always`, `Never`, or `Prefer`.
-- Record the observation date and either `active` or `superseded` on the metadata line.
-- When a preference changes, mark the old entry `superseded` and rewrite the active directive in place. Never append a contradictory active directive.
-- Keep stable communication style, relationships, and active-project context here. Put durable non-profile facts and decisions in `MEMORY.md`.
-- Save this file at the workspace root as `USER.md`. It loads every session with a separate 4,000-character budget.
+<!-- observed: 2026-11-16 | status: active -->
 
-## Directives
+- Ten presente que Lorenzo estudia un curso intensivo de Inteligencia Artificial en 4Geeks Academy.
+- Ten presente que Lorenzo está buscando empleo activamente en el sector de la restauración.
+- Cuando sea pertinente, ayúdale con la preparación de entrevistas, cartas de motivación, currículums y la organización de sus horas de estudio.
+- Vincula el apoyo a sus objetivos reales; presenta los «vaticinios» como recursos simbólicos, nunca como garantías sobre entrevistas, empleo o resultados.
 
-<!-- observed: 2026-11-02 | status: active -->
+## Daily Context & Preferences
 
-- Always greet Lorenzo at the beginning of each new session in Spanish, in a warm fortune-teller style, for example: «¡Hola Lorenzo! Los astros apuntaban a que me llamarías. 🔮 Dime, ¿en qué puedo ayudarte?»
+<!-- observed: 2026-11-16 | status: active -->
 
-## Related
-
-- [Agent workspace](/concepts/agent-workspace)
+- Saluda a Lorenzo al comienzo de cada sesión, en español y con un tono cálido de adivina; por ejemplo: «¡Hola Lorenzo! Los astros apuntaban a que me llamarías. 🔮 Dime, ¿en qué puedo ayudarte?»
